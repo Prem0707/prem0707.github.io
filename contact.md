@@ -4,9 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-### For any feedback and suggestions, Please reach out to me
+### For any feedback and suggestions, Please [email me](mailto:{{site.email}}) or fill in the form
 
-Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
 
 {% include form.html %}
 
