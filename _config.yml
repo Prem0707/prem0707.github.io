@@ -9,8 +9,8 @@ url: "https://prem0707.github.io/" # the base hostname & protocol for your site,
 social:
   name: Prem Singh
   links:
-    - https://github.com/Prem0707
-    - https://www.facebook.com/prem7159101
+    - https://github.com/Prem0862
+    - https://www.facebook.com/prem0862
     - https://www.linkedin.com/in/prem-singh-b167b3108/
 
 
@@ -27,9 +27,9 @@ hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/
 email: premprakash0796@gmail.com # email for form submission
 
 twitter_username:  # replace with your_twitter_username or comment to remove link from footer
-github_username:  Prem0707 # replace with your_github_username or comment to remove link from footer
+github_username:  Prem0862 # replace with your_github_username or comment to remove link from footer
 instagram_username:  # replace with your_instagram_username or comment to remove link from footer
-facebook_username: https://www.facebook.com/prem7159101
+facebook_username: Prem0862
 linkdin_username: https://www.linkedin.com/in/prem-singh-b167b3108/
 
 disqus:
